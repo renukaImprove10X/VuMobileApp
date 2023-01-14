@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432717460410",
+    "project_id": "vumobileapp-1ce7c",
+    "storage_bucket": "vumobileapp-1ce7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432717460410:android:b007151aee17dbc0ade383",
+        "android_client_info": {
+          "package_name": "com.improve10x.vumobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432717460410-sv8prgvu9a96laif3i7ie8iqublnaaoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improve10x.vumobileapp",
+            "certificate_hash": "7504314f4aead7e56b58a172efe9917500973067"
+          }
+        },
+        {
+          "client_id": "432717460410-uqgrh92p747cac369i7uetpi1of818h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaJbUcMM9RmWLxSwst8L_m3yLPhUnvA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432717460410-uqgrh92p747cac369i7uetpi1of818h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
